@@ -2,7 +2,7 @@
 
 **Calgary-based student project team building a bionic robotic arm for remote/teleoperated surgery — inspired by the challenges of operating in space.**
 
-Our goal is to design reliable, precise tools that help clinicians perform procedures from afar—useful in extreme environments (like orbit) and here on Earth. We’re a multidisciplinary group of students collaborating across engineering and biomedical domains to turn that mission into reality.
+Our goal is to design reliable, precise tools that help clinicians perform procedures from afar, useful in extreme environments (like orbit) and here on Earth. We’re a multidisciplinary group of students collaborating across engineering and biomedical domains to turn that mission into reality.
 
 ---
 
